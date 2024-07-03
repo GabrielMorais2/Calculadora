@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Calculadora - React Native
+
+![image](https://github.com/GabrielMorais2/Calculadora/assets/68476116/919c74cc-f2db-43fd-b709-d2c01bbb69a2)
 
 # Getting Started
 
